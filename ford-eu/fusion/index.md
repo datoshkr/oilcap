@@ -1,0 +1,11 @@
+2005 - 2012
+- 1.25L Duratec
+    - Capacity: 3.75 L
+- 1.4L Duratec
+    - Capacity: 3.75 L
+- 1.6L Duratec
+    - Capacity: 4.1 L
+- 1.4L Duratorq-TDCi
+    - Capacity: 3.8 L
+- 1.6L Duratorq-TDCi
+    - Capacity: 3.85 L
