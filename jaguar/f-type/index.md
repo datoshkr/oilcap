@@ -1,5 +1,5 @@
 2016
-- 3.0L
+- AWD
     - Engine oil capacity: 6.5 liters
-- 5.0L
+- RWD
     - Engine oil capacity: 7.25 liters
