@@ -5,3 +5,8 @@
     - Engine oil capacity: 3.7 liters
 - 140 hp (103 kW), 2.0L diesel engines
     - Engine oil capacity: 4.3 liters
+
+2016
+- 1.4L
+    - Engine oil capacity: 3.6 liters
+    - Engine oil filter: MANN - W712/52
