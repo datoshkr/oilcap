@@ -1,3 +1,3 @@
 2020
 - 2.0L
-    - Capacity: 4.3 L
+    - Engine oil capacity: 4.3 liters
