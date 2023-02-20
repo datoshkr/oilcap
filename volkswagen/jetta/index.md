@@ -10,7 +10,7 @@
 - 100hp diesel
     - Engine oil capacity: 4.5 liters
 
-2002 - 2003
+2002 - 2004
 - 115hp
     - Engine oil capacity: 4.0 liters
 - 180hp
