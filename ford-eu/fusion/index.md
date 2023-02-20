@@ -1,11 +1,11 @@
 2005 - 2012
 - 1.25L Duratec
-    - Capacity: 3.75 L
+    - Engine oil capacity: 3.75 liters
 - 1.4L Duratec
-    - Capacity: 3.75 L
+    - Engine oil capacity: 3.75 liters
 - 1.6L Duratec
-    - Capacity: 4.1 L
+    - Engine oil capacity: 4.1 liters
 - 1.4L Duratorq-TDCi
-    - Capacity: 3.8 L
+    - Engine oil capacity: 3.8 liters
 - 1.6L Duratorq-TDCi
-    - Capacity: 3.85 L
+    - Engine oil capacity: 3.85 liters
