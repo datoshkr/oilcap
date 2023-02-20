@@ -30,7 +30,7 @@
 - 5.0L gasoline
     - Engine oil capacity: 6.5 liters
 
-2021
+2021 - 2022
 - 2.0L gasoline
     - Engine oil capacity: 7.0 liters
 - 3.0L gasoline
