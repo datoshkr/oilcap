@@ -1,37 +1,37 @@
 2000 - 2009
 - 2.3L DOHC
-    - Capacity: 4.25 L
+    - Engine oil capacity: 4.25 liters
 - 2.0L DuraTorq DI/TDCi Turbodiesel
-    - Capacity: 6.5 L
+    - Engine oil capacity: 6.5 liters
 - 2.4L DuraTorq DI/TDCi Turbodiesel
-    - Capacity: 7.0 L
+    - Engine oil capacity: 7.0 liters
 
 2006 - 2014
 - 2.3L Duratec-HE
-    - Capacity: 4.3 L
+    - Engine oil capacity: 4.3 liters
 - 2.2L DuraTorq-TDCi, front-wheel drive
-    - Capacity: 6.2 L
+    - Engine oil capacity: 6.2 liters
 - 2.2L DuraTorq-TDCi, rear-wheel drive
-    - Capacity: 10.1 L
+    - Engine oil capacity: 10.1 liters
 - 2.4L DuraTorq-TDCi
-    - Capacity: 8.8 L
+    - Engine oil capacity: 8.8 liters
 - 3.2L DuraTorq-TDCi
-    - Capacity: 11.4 L
+    - Engine oil capacity: 11.4 liters
 
 2014 - 2016
 - 2.0L ECOBLUE FWD
-    - Capacity: 9.1 L
+    - Engine oil capacity: 9.1 liters
 - 2.0L ECOBLUE AWD/RWD
-    - Capacity: 11.11 L
+    - Engine oil capacity: 11.11 liters
 
 2016 - 2019
 - 2.0L ECOBLUE FWD
-    - Capacity: 6.5 L - 9.8 L
+    - Engine oil capacity: 6.5 L - 9.8 liters
 - 2.0L ECOBLUE AWD/RWD
-    - Capacity: 10.1 L - 11.5 L
+    - Engine oil capacity: 10.1 L - 11.5 liters
 
 2019 - 2023
 - 2.0L ECOBLUE FWD
-    - Capacity: 9.8 L
+    - Engine oil capacity: 9.8 liters
 - 2.0L ECOBLUE AWD/RWD
-    - Capacity: 11.5 L
+    - Engine oil capacity: 11.5 liters
