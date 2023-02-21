@@ -21,3 +21,11 @@
     - Engine oil capacity: 3.7 liters
 - 140 hp (103 kW), 2.0 L diesel
     - Engine oil capacity: 4.3 liters
+
+2015
+- 170 hp (125 kW), 1.8 L gasoline
+    - Engine oil capacity: 5.5 liters
+- 115 hp (85 kW), 2.0 L gasoline
+    - Engine oil capacity: 3.6 liters
+- 150 hp (110 kW), 2.0 L diesel
+    - Engine oil capacity: 5.5 liters
