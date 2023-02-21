@@ -1,7 +1,7 @@
 2004
 - 115hp, 2.0L
     - Engine oil capacity: 4.0 liters
-- 180hp, 2.8L
+- 180hp, 1.8L
     - Engine oil capacity: 4.5 liters
 - 100hp, 1.5L diesel
     - Engine oil capacity: 4.5 liters
