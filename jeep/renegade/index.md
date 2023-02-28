@@ -13,3 +13,11 @@
 - 2.4L
     - Engine oil: SAE 0W-20, API Certified
     - Engine oil capacity: 5.2 liters
+
+2019
+- 1.3L Turbo
+    - Engine oil: SAE 0W-30 SN PLUS Synthetic, API Certified
+    - Engine oil capacity: 4.3 liters
+- 2.4L
+    - Engine oil: SAE 0W-20, API Certified
+    - Engine oil capacity: 5.2 liters
